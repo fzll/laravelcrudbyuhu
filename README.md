@@ -1,4 +1,4 @@
-# blokpribadi
+hu# blokpribadi
 ini adalah blok pribadi yang menceritakan tentang saya
 jangan lupa pakai php artisan serve untuk menjalankan laravelnya
 database chat ya..
@@ -88,3 +88,4 @@ def sing_song():
 
 if __name__ == "__main__":
     sing_song()
+ZKBzyX304af9be90ab6866440WtNNlXL
